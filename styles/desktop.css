@@ -1,0 +1,41 @@
+/* desktop */
+@media (min-width:700px){
+    .part-img{
+        width: 60px;
+    }
+    .part-item{
+        height: 60px;
+        align-items: center;
+        display: flex;
+        width: 75%;
+        padding: 5px;
+    }
+    .qr-img{
+        margin: auto;
+        width: 290px!important;
+        height: 290px!important;
+    }
+    .qr-btn{
+        margin: auto;
+        width: 290px!important;
+    }
+    .desk-img{
+        width: 30%;
+        margin: auto;
+    }
+
+    .nav-link{
+        display: flex;
+        align-items: center;
+    }
+    
+
+    .m27-d-text-right{
+        text-align: right;
+    }
+    .m27-d-ml-3{
+        margin-left: 1rem;
+    }
+
+    /* end desktop */
+}
